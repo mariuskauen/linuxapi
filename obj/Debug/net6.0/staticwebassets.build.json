@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R5MZbuKUyJrOaOPYHiZSJi9Egz3UEDu/KmEEWz3vtSM=",
+  "Source": "linuxapi",
+  "BasePath": "_content/linuxapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
